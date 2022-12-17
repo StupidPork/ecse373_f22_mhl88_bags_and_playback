@@ -1,5 +1,3 @@
-# ecse373_f22_mhl88_bags_and_playback
-
 # Laboratory 3
 
 ROS package containing a robot model to view the map of Glennan's 5th floor
